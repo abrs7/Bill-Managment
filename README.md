@@ -31,10 +31,4 @@ This project is a simple Bill and Payment Management System built using Django a
   
 - **Create Payment**: `POST /api/v1/payments/`  
   Create a new payment (requires authentication).
-
-## How to Run
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+  
